@@ -1,0 +1,17 @@
+{
+  "name": "nice-demo",
+  "version": "1.0.0",
+  "description": "repo for live programming session",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmicko/nice-demo.git"
+  },
+  "author": "Petr Micko",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.4",
+    "typescript": "^5.3.3"
+  },
+  "scripts": {}
+}
